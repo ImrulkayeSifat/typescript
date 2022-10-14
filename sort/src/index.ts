@@ -1,4 +1,4 @@
-gimport { NumbersCollection } from "./NumbersCollection";
+import { NumbersCollection } from "./NumbersCollection";
 import { CharactersCollection } from "./CharactersCollection";
 import { LinkedList } from "./LinkedList";
 
